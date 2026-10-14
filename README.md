@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ivan (Ivalip) 👋
 
-<!--
-**Ivalip/Ivalip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Verilog Developer | Android Application Developer**
 
-Here are some ideas to get you started:
+I'm a developer working across hardware design and mobile software development. I build digital systems using Verilog and develop Android applications, combining low-level engineering with user-facing software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+- **FPGA & Digital Design** — RTL development, Verilog, finite-state machines, and digital system architecture.
+- **Android Development** — mobile application development, application architecture, and user interface implementation.
+- **Embedded Systems** — hardware-software integration and communication between digital components.
+
+### Technologies
+
+- **Hardware:** Verilog, FPGA design
+- **Mobile:** Android development, Java
+- **Tools:** Git, GitHub
+
+### Featured Projects
+
+Explore my repositories to see projects in digital design, hardware development, and Android application engineering.
+
+---
+
+*Always learning, building, and exploring new engineering challenges.*
