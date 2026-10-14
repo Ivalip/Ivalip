@@ -1,25 +1,64 @@
 # Hi, I'm Ivan (Ivalip) 👋
 
-**Verilog Developer | Android Application Developer**
+**FPGA & Digital Design | Android Application Development**
 
-I'm a developer working across hardware design and mobile software development. I build digital systems using Verilog and develop Android applications, combining low-level engineering with user-facing software.
+I'm a developer interested in both digital hardware design and mobile software engineering. I work with Verilog, FPGA development tools, digital communication interfaces, and Android applications.
 
-### Areas of Interest
+## 🛠️ Technologies & Tools
 
-- **FPGA & Digital Design** — RTL development, Verilog, finite-state machines, and digital system architecture.
-- **Android Development** — mobile application development, application architecture, and user interface implementation.
-- **Embedded Systems** — hardware-software integration and communication between digital components.
+**Hardware Design**
+- Verilog HDL
+- Xilinx Vivado
+- Intel Quartus
+- FPGA design and RTL development
+- Finite-state machines (FSM)
 
-### Technologies
+**Interfaces & Protocols**
+- UART
+- VGA
+- PS/2
+- 1-Wire
 
-- **Hardware:** Verilog, FPGA design
-- **Mobile:** Android development, Java
-- **Tools:** Git, GitHub
+**Android Development**
+- Java
+- Android SDK
+- Room Database
+- Gradle
+- USB serial communication
 
-### Featured Projects
+**Development Tools**
+- Git & GitHub
+- Android Studio
 
-Explore my repositories to see projects in digital design, hardware development, and Android application engineering.
+## 🚀 Featured Projects
+
+### [UART CPU VGA Controller](https://github.com/Ivalip/UART_cpu_VGA_controller)
+A digital system project focused on UART command input, command processing, and VGA output using Verilog HDL.
+
+### [Messenger](https://github.com/Ivalip/Messenger)
+An Android messaging application developed as a more fully implemented continuation of **LoRa-Messenger**. It extends the original project with a more developed application structure and additional functionality.
+
+**Technologies:** Java, Android SDK, Room, Gradle, USB serial communication.
+
+### [LoRa-Messenger](https://github.com/Ivalip/LoRa-Messenger)
+The earlier stage of my messaging application project. It provides the foundation for the further development represented by Messenger.
+
+### [UsefulFiles](https://github.com/Ivalip/UsefulFiles)
+A repository of useful files and datasets.
+
+## 🎯 Areas of Interest
+
+- FPGA and digital system design
+- RTL development with Verilog
+- Digital interfaces and communication protocols
+- Embedded systems and hardware-software integration
+- Android application development
+- Software architecture and engineering
+
+## 📫 Contact
+
+- GitHub: [@Ivalip](https://github.com/Ivalip)
 
 ---
 
-*Always learning, building, and exploring new engineering challenges.*
+*Learning, building, and improving through practical engineering projects.*
